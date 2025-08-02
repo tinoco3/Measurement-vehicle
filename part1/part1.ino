@@ -1,7 +1,7 @@
 /*
 
 Name: Measurement vehicle
-Emails: marcotinocososa@gmal.com
+Emails: marcotinocososa@gmail.com
 Team: Marco Tinoco
 
 My project is a remote-controlled vehicle, allowing it to measure distance. We will use this feature to measure distance, 
