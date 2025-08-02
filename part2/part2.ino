@@ -1,16 +1,16 @@
 /*
 
 Name: Measurement vehicle
-Emails: marcotinocososa@gmal.com
+Emails: marcotinocososa@gmail.com
 Team: Marco Tinoco
 
 
 My project is a remote-controlled vehicle, allowing it to measure distance. We will use this feature to measure distance, 
 allowing the user to pick between length, width, and distance modes. The first two modes measure the height and width of a given space, 
-and distance mode allows the user to measure the distance traveled by the vehicle. All of this information will be displayed on the LCD on 
+and the distance mode allows the user to measure the distance traveled by the vehicle. All of this information will be displayed on the LCD on 
 the controller.
 
-This the the code for the remote controlled car
+This the the code for the remote-controlled car
 */
 
 #include <SPI.h>
