@@ -60,10 +60,11 @@ A remote-controlled vehicle system that measures distances and calculates areas 
 
 ## Wiring Diagrams
 
+### Car Diagram
 <img width="921" height="632" alt="Screenshot 2025-08-01 at 10 31 26 PM" src="https://github.com/user-attachments/assets/a9e3fa68-226b-4c2c-b8da-f9ca5ddc99ea" />
 
 
-### Remote Controller
+### Remote Controller Diagram
 
 <img width="921" height="523" alt="Screenshot 2025-08-01 at 10 13 30 PM" src="https://github.com/user-attachments/assets/86e76d42-35f3-417a-beda-ab81d48e92a8" />
 
