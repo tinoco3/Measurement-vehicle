@@ -60,7 +60,7 @@ A remote-controlled vehicle system that measures distances and calculates areas 
 
 ## Wiring Diagrams
 
-<img width="648" height="409" alt="Screenshot 2025-08-01 at 10 12 50 PM" src="https://github.com/user-attachments/assets/89068bb8-992b-489e-82e4-4c210a62c3ae" />
+<img width="921" height="632" alt="Screenshot 2025-08-01 at 10 31 26 PM" src="https://github.com/user-attachments/assets/a9e3fa68-226b-4c2c-b8da-f9ca5ddc99ea" />
 
 
 ### Remote Controller
