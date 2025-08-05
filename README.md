@@ -1,6 +1,6 @@
-
-
 # 📏🚗 Measurement Vehicle Project
+
+- Author: Marco A. Tinoco Sosa
 
 A remote-controlled vehicle system that measures distances and calculates areas with real-time LCD feedback.
 
